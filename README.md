@@ -16,5 +16,5 @@ However, there are more ways how to download Shorky but this is the best way
 
 <img width="421" height="548" alt="Snímek obrazovky 2025-12-05 v 10 03 26" src="https://github.com/user-attachments/assets/cd028f01-87bd-4ea9-99df-a8cc881e996c" />
 
-<img width="807" height="477" alt="Snímek obrazovky 2025-12-05 v 9 54 36" src="https://github.com/user-attachments/assets/69c8ed1e-8c16-45b0-81e5-cd1df7ab03d6" />
+
 
